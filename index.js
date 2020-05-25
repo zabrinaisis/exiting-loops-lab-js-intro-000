@@ -16,8 +16,8 @@ function keepGoing(array, changeValue, skipValue) {
     } else {
       continue;
     }
-    return (array);
   }
+  return (array);
 }
 
 function findBy(array, findFn) {
