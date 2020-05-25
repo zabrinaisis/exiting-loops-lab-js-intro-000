@@ -5,8 +5,8 @@ function breakOut(array, changeValue, stopValue) {
     } else {
       break;
     }
-    return (array);
   }
+  return (array);
 }
 
 function keepGoing(array, changeValue, skipValue) {
