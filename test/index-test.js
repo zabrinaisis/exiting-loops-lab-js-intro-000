@@ -1,4 +1,4 @@
-describe('loops', function() {
+  describe('loops', function() {
   describe('breakOut(array, changeValue, stopValue)', function() {
     it('changes every element in `array` to `changeValue` until it reachs `stopValue`', function() {
       const c = Math.floor(Math.random() * 100)
